@@ -23,12 +23,16 @@ Spendl is a professional-grade expense tracking application built with **Streaml
 ## 📸 Screenshots
 ![Dashboard Overview](IMG1.png)
 *Figure 1: Login / Sign Up Page*
+---
 ![Dashboard Overview](IMG2.png)
 *Figure 2:Dashboard, Adding Expenses Page*
+---
 ![Dashboard Overview](IMG3.png)
 *Figure 3: Summary and Visualization*
+---
 ![Dashboard Overview](IMG4.png)
 *Figure 4: Footer includes Exporting Pdf*
+---
 
 ## 🛠️ Data Architecture
 The application uses a relational SQLite database with two primary tables:
